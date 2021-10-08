@@ -55,7 +55,7 @@
   },
   "equipmentFinder" : {
     "ACTIVE_EQ_LEVELS": "Unit",
-    "INCLUDE_EQUIPMENT": "Tenowo/Black/Line20",
+    "INCLUDE_EQUIPMENT": "Red/Black/Line20",
     "EXCLUDE_EQUIPMENT": "MySite/MyArea/ProdLineOEE"
   },
   "RESTAPI": {
